@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: happygokul/newimage:latest
+          image: manis99/k8image:0.0.2
           imagePullPolicy: Always
